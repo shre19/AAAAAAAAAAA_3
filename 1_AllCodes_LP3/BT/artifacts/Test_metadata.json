@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"stateMutability": "nonpayable",
+				"type": "fallback"
+			},
+			{
+				"inputs": [],
+				"name": "x",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"bt3.sol": "Test"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"bt3.sol": {
+			"keccak256": "0xc21e0d333c010009be1b5dd44e1099472ac86d5e94769b4875fa4dfaac6a9b9c",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a175f3241f908844389af1878de6508a1825e651dd665fcca0450d1226a6fb2f",
+				"dweb:/ipfs/QmfNd6JNggiwoo6NC7N7q8MhcLBMGqFTPCzy3mggCo2E54"
+			]
+		}
+	},
+	"version": 1
+}
